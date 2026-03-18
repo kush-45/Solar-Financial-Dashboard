@@ -15,7 +15,7 @@ This project is a Power BI dashboard analyzing solar company financial data.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](your-image-name.png)
+![Dashboard]((images/dashboard.png).png)
 
 ## 🛠 Tools
 
